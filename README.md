@@ -1,5 +1,7 @@
 # Lebenslauf
 
+![alt text](https://github.com/StrangerKuma/Einkaufsliste/blob/118f31f43905a386320fb886db4890d32282d60b/Bild.jpg)
+
 ## Wer bin ich?
 
 > Name: 			Marc Pröll
@@ -23,4 +25,6 @@
 ## Weitere Kenntnisse
 
 > Sprachen:		Deutsch, Entenisch
+
+
 
